@@ -1,13 +1,13 @@
 {
-  "name": "Zagadkowy Hubis",
-  "version": "0.0.1",
-  "description": "Bot serwera Zagadkowy Hubis",
+  "name": "moj-discord-bot-js",
+  "version": "1.0.0",
+  "description": "Mój prosty bot Discord w JS hostowany na Pella.app",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "keywords": ["discord", "bot", "discord.js", "pella.app"],
-  "author": "ZagadkowyHubis",
+  "author": "TwojeImieNazwisko",
   "license": "ISC",
   "dependencies": {
     "discord.js": "^14.15.3"
